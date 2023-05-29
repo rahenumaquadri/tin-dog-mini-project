@@ -110,7 +110,7 @@ button {
     color: white;
 } 
 
-
+/* cta section */
 
 #cta {
     background-color: #ff4c68;
@@ -124,7 +124,7 @@ button {
     font-size: 3.5rem;
     line-height: 1.5;
 }
-
+/* footer section */
 #footer {
     padding: 7% 15%;
     text-align: center;
@@ -135,7 +135,7 @@ button {
     color: black;
 }
 
-
+/* responsive  */
 
 @media screen and (max-width:1028px) {
 
